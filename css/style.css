@@ -1,0 +1,25 @@
+body{
+    font-family: Poppins;
+    margin: 0;
+}
+.sect{
+    padding:50px;
+}
+.waves-effect{
+    margin-top: 30px;
+}
+.head{
+    top:0;
+    padding: 0.5px;
+    font-family: Alegreya Sans SC;
+    background: lightgray;
+}
+.footer{
+    background: lightgray;
+    margin-bottom: 0;
+    bottom: 0;
+    padding: 10px;
+}
+.info{
+    font-weight: 500;
+}
